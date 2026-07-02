@@ -1,0 +1,3 @@
+API Integration Task:
+
+Fetch data from any public API and display it on the screen. When a user clicks on an item, show its title/details on the page.
